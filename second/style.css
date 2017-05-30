@@ -1,0 +1,39 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+}
+
+.one,
+.two,
+.three {
+	width: 33.33%;
+	height: 100vh;
+	float: left;
+}
+
+.one {
+	background: cornflowerblue;
+}
+
+.two {
+	background: #50e3c2;
+}
+
+.three {
+	background: #b8e986;
+}
+
+.image-placeholder {
+	background: #d0021b;
+	height: 150px;
+	bottom: 0;
+	position: absolute;
+	color: #fff;
+	width: 33.3%;
+	text-align: center;
+	font-family: sans-serif;
+	line-height: 150px;
+	font-size: 22px;
+	font-weight: 100;
+}
