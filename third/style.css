@@ -24,9 +24,32 @@ header {
 
 .text {
 	font-family: sans-serif;
-	padding: 20px;
+	padding: 50px;
 }
 
 h2 {
 	font-weight: lighter;
+	font-size: 23px;
+	margin: 0 0 20px 0;
+}
+
+.strip {
+	width: 100vw;
+	height: 127px;
+}
+
+.blue {
+	background: #4a90e2;
+}
+
+.teal {
+	background: #50e3c2;
+}
+
+.green {
+	background: #b8e986;
+}
+
+.yellow {
+	background: #f8e71c;
 }
